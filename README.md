@@ -9,21 +9,21 @@
 
 <p>Go to http://127.0.0.1:8000. Select a CSV file and click Upload button. If the file format is valid, it proceeds to output serialized data. Otherwise, it throws validation error.</p>
 
-<img src="{{asset('uploader.png')}}">
+<img src="https://github.com/sarwat-osman/file-upload/blob/master/public/sample_csv_file.png">
 
 <h2>Sample CSV file:</h2>
 
-<img src="{{asset('sample_csv_file.png')}}">
+<img src="https://github.com/sarwat-osman/file-upload/blob/master/public/sample_csv_file.png">
 
 <h2>Output:</h2>
 
-<img src="{{asset('output.png')}}">
+<img src="https://github.com/sarwat-osman/file-upload/blob/master/public/output.png">
 
 
 <h2>Versions used:</h2>
 
-PHP 7.4.25
-Laravel 8.73.0
+PHP 7.4.25<br>
+Laravel 8.73.0<br>
 FastExcel 3.1.0
 
 
