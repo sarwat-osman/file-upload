@@ -26,13 +26,14 @@ PHP 7.4.25<br>
 Laravel 8.73.0<br>
 FastExcel 3.1.0
 
+<h2>Instructions on how to use the File Upload Service:</h2>
 
-In your controller, use the following namespace for the file upload service: 
+In your controller, use the following namespace for the service: 
 ```php
 use App\Services\FileService;
 ```
 
-Create an instance of the service:
+Create an instance of the service where required:
 ```php
 $fileService = new FileService();
 ```
