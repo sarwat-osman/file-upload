@@ -1,5 +1,5 @@
 
-<h1><center>File Uploader App</center></h1>
+<center><h1>File Uploader App</h1></center>
 
 <h2>Description:</h2> 
 
@@ -7,7 +7,7 @@
 
 <h2>Input:</h2>
 
-<p>Go to http://127.0.0.1:8000. Select a CSV file and click Upload button. If the file format is valid, it proceeds to output serialized data. Otherwise, it throws validation error.</p>
+<p>After running the app, go to http://127.0.0.1:8000. Select a CSV file and click Upload button. If the file format is valid, it proceeds to output serialized data. Otherwise, it throws validation error.</p>
 
 <img src="https://github.com/sarwat-osman/file-upload/blob/master/public/uploader.png">
 
