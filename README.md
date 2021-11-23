@@ -9,7 +9,7 @@
 
 <p>Go to http://127.0.0.1:8000. Select a CSV file and click Upload button. If the file format is valid, it proceeds to output serialized data. Otherwise, it throws validation error.</p>
 
-<img src="https://github.com/sarwat-osman/file-upload/blob/master/public/sample_csv_file.png">
+<img src="https://github.com/sarwat-osman/file-upload/blob/master/public/uploader.png">
 
 <h2>Sample CSV file:</h2>
 
